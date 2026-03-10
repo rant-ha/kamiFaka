@@ -6,10 +6,5 @@
     ],
     "website": "https://github.com/Baiyuetribe/kamiFaka",
     "repository": "https://github.com/Baiyuetribe/kamiFaka",
-    "stack": "container",
-    "addons": [
-        {
-          "plan": "heroku-postgresql:hobby-dev"
-        }
-    ]
+    "stack": "container"
 }
